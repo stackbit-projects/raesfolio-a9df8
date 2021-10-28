@@ -8,7 +8,7 @@
         "tagline": "Header Tagline",
         "profile_img": "/images/raeIcon.jpg",
         "profile_img_alt": "Anime Raven Avatar",
-        "background": "dark",
+        "background": "light",
         "has_nav": true,
         "nav_links": [
             {
